@@ -1,4 +1,4 @@
-Here’s an enhanced report that includes relevant code snippets from your files along with explanations of how each part works:
+Report
 
 ---
 
@@ -136,5 +136,4 @@ The UI in QML provides an interface for entering caller and target IDs, connecti
 This project demonstrates a distributed voice call system using Qt and WebRTC, providing efficient real-time voice communication over P2P connections. The code efficiently manages signaling, audio processing, and P2P connection setup, delivering an optimized solution for voice transmission without centralized servers.
 
 ---
-
-This version includes code snippets and explanations, demonstrating how each function contributes to the system. Adjust or expand upon any specific sections as needed to further emphasize the code’s role in your implementation.
+Fall 2024
